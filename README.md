@@ -3,10 +3,10 @@
 this POC is used for dockerise django with redis 
 
 ## requirements
-> redis
-> docker 
-> docker-compose
-> django
++ redis
++ docker 
++ docker-compose
++ django
 
 ## how to install
 
